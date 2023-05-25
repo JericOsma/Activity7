@@ -1,0 +1,9 @@
+User Manual
+Step1 : Install the provided Installer application
+Step2 : Import the provided sql file and named it into `actvity5`
+Step3 : Reconfigure your database machine 
+	Host : localhost
+	Port : 3307
+	Username : root
+	Password : 1225
+After that you may now use the application very well
